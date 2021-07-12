@@ -35,7 +35,7 @@ $ bundle install
 If you receive an error, make sure you have `bundler` installed:
 
 ```bash
-$ gem install bundler
+$ gem install bundler 
 ```
 
 Initialize the database:
