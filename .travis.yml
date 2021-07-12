@@ -14,3 +14,5 @@ before_install:
 before_script: bundle exec rails db:test:prepare
 cache: bundler
 env: RAILSGOAT_MAINTAINER=true
+after_success:
+- bash <(curl -s https://scripts.scantist.com/ci-travis.sh)
