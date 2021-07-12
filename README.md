@@ -10,7 +10,7 @@ If you are looking for support or troubleshooting assistance, please visit our [
 
 To begin, if you do not have Ruby, Git, MySQL, and Postgres, we suggest
 using this [site](https://gorails.com/setup) to install the software.
-Pick the appropriate operating system and follow the instructions.
+Pick the appropriate operating system and follow the instructions. 
 
 After installing the above software, clone this repo:
 
